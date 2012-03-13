@@ -1,0 +1,4 @@
+name: TweakcraftUtils-ClientBridge
+main: com.guntherdw.bukkit.tcutilsclientbridge.TCUtilsClientBridgePlugin
+version: 0.5
+depend: [ 'TweakcraftUtils' ]
